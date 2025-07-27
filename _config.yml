@@ -1,0 +1,21 @@
+title: Life with science
+description: Exploring the wonders of biology, astronomy, and scientific programming
+baseurl: ""
+url: "https://phybrackets.github.io"
+markdown: kramdown
+highlighter: rouge
+theme: minima
+plugins:
+  - jekyll-feed
+
+author:
+  name: Shivam
+  email: physhivam@gmail.com
+
+show_excerpts: true
+
+header_pages:
+  - about.md
+  - biology.md
+  - astronomy.md
+  - programming.md
