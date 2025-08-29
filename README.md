@@ -1,11 +1,22 @@
-# Life With Science
-
-A blog dedicated to exploring the fascinating worlds of biology, astronomy, and the programming tools that help us understand science better.
+# Mind & Matter
 
 Visit the blog at: https://phybrackets.github.io
 
-## Upcoming Topics
-- Biology and Life Sciences
-- Astronomy and Space Science
-- Scientific Programming (Python, OpenGL, etc)
-- Science Communication
+## About
+
+This blog focuses on the fascinating intersection of brain science and human behavior. Topics :
+
+- **Neuroscience**: How the brain works at cellular and systems levels
+- **Psychology**: Cognitive processes, emotions, and behavior
+- **Mind-Brain Connection**: Bridging biological mechanisms with psychological experience
+
+## Writing Topics
+
+Current areas of exploration:
+- Neural plasticity and learning
+- The neuroscience of consciousness
+- Memory formation and recall
+- Emotional processing in the brain
+- Cognitive biases and decision-making
+- Mental health from a neuroscience perspective
+

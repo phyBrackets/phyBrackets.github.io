@@ -1,5 +1,5 @@
-title: Life with science
-description: Exploring the wonders of biology, astronomy, and scientific programming
+title: Mind & Matter
+description: Exploring the fascinating worlds of neuroscience and psychology
 baseurl: ""
 url: "https://phybrackets.github.io"
 markdown: kramdown
@@ -13,9 +13,20 @@ author:
   email: physhivam@gmail.com
 
 show_excerpts: true
-
 header_pages:
   - about.md
-  - biology.md
-  - astronomy.md
-  - programming.md
+  - archive.md
+
+minima:
+  skin: auto
+  social_links:
+    - { platform: email, user_url: "mailto:physhivam@gmail.com" }
+
+paginate: 5
+paginate_path: "/page:num/"
+
+collections:
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:title/
+    
